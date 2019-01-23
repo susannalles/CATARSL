@@ -18,13 +18,13 @@ This two-day symposium aims to bring together scholars and researchers working w
 - February 10, 2019: Notification of acceptance
 - 24-25 April: Symposium
 
-Program will be shortly available online at [here](/SymposiumTextAnalysis/program/) as well as the [Registration]()
+Program will be shortly available [here](/SymposiumTextAnalysis/program/) as well as [Registration]()
 
 More information about how to travel [here](/SymposiumTextAnalysis/travel/)
 
 Sponsors: 
 
-![MLL](img/MLL.png) ![SEEDS](img/SEEDS.png) ![CenterHum](img/CenterHum.png)
+![MLL](img/MLL.png) ![SEEDS](img/SEEDS.png) ![CenterHum](img/CenterHum.png) ![DHuF](img/dhuf.png)
 
 
 
