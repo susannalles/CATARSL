@@ -24,7 +24,7 @@ More information about how to travel [here](/SymposiumTextAnalysis/travel/)
 
 Sponsors: 
 
-![MLL](img/MLL.png) ![SEEDS](img/SEEDS.png) ![CenterHum](img/CenterHum.png) ![DHuF](img/dhuf.png)
+![CAS](img/CAS.png) ![SEEDS](img/SEEDS.png) ![CenterHum](img/CenterHum.png) ![DHuF](img/dhuf.png)
 
 
 
