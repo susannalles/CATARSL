@@ -3,10 +3,10 @@
   <channel>
     <title>Computer-Assisted Text Analysis for Resource-Scarce Literatures</title>
     <description>A Symposium at UM</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Feb 2019 12:29:06 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Feb 2019 12:29:06 -0500</lastBuildDate>
+    <link>http://localhost:4000/CATARSL/</link>
+    <atom:link href="http://localhost:4000/CATARSL/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Feb 2019 12:44:19 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Feb 2019 12:44:19 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -31,8 +31,8 @@
 
 </description>
         <pubDate>Wed, 30 Mar 2016 10:15:31 -0400</pubDate>
-        <link>http://localhost:4000/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/CATARSL/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/CATARSL/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -52,8 +52,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 10:15:31 -0400</pubDate>
-        <link>http://localhost:4000/science/2016/03/30/science0.html</link>
-        <guid isPermaLink="true">http://localhost:4000/science/2016/03/30/science0.html</guid>
+        <link>http://localhost:4000/CATARSL/science/2016/03/30/science0.html</link>
+        <guid isPermaLink="true">http://localhost:4000/CATARSL/science/2016/03/30/science0.html</guid>
         
         
         <category>science</category>
@@ -71,8 +71,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 10:15:31 -0400</pubDate>
-        <link>http://localhost:4000/science/2016/03/30/science.html</link>
-        <guid isPermaLink="true">http://localhost:4000/science/2016/03/30/science.html</guid>
+        <link>http://localhost:4000/CATARSL/science/2016/03/30/science.html</link>
+        <guid isPermaLink="true">http://localhost:4000/CATARSL/science/2016/03/30/science.html</guid>
         
         
         <category>science</category>
@@ -90,8 +90,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 10:15:31 -0400</pubDate>
-        <link>http://localhost:4000/design/science/life/2016/03/30/design-stories.html</link>
-        <guid isPermaLink="true">http://localhost:4000/design/science/life/2016/03/30/design-stories.html</guid>
+        <link>http://localhost:4000/CATARSL/design/science/life/2016/03/30/design-stories.html</link>
+        <guid isPermaLink="true">http://localhost:4000/CATARSL/design/science/life/2016/03/30/design-stories.html</guid>
         
         
         <category>design</category>
