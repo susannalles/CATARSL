@@ -19,6 +19,7 @@ The symposium will be held with the support from:
 - [Department of Modern Languages and Literatures](https://mll.as.miami.edu/index.html), University of Miami
 - [College of Arts and Sciences](https://www.as.miami.edu/) 
 - [SEED You Choose Program](https://seeds.miami.edu/) 
+- [School of Communication](https://com.miami.edu/)
 - [Center for the Humanities](https://humanities.as.miami.edu/)
 
 In collaboration with: 
