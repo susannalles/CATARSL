@@ -30,15 +30,17 @@ More information about how to travel [here](/CATARSL/travel/)
 
 Sponsors: 
 
-![SEEDS](img/SEEDS.png) 
+<div class="logos">
 
-![CAS](img/CAS.png) 
+<img src="img/logo2.png" alt="CAS"/>
+<img src="img/logo4.png" alt="School of Communication"/>
+<img src="img/logo1.png" alt="CenterHum"/>
+</div>
+<div class="logos">
+<img src="img/logo5.png" alt="SEEDS"/>
+<img src="img/logo3.png" alt="DHuF"/>
+</div>
 
-![School of Communication](img/Communication.gif)
-
-![CenterHum](img/Center-Hum.png) 
-
-![DHuF](img/dhuf.png) 
 
 
 
