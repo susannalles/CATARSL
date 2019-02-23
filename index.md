@@ -7,7 +7,7 @@ tagline: " "
 
 ## Welcome 
 
-Computer-Assisted Text Analysis for Resource-Scare Literatures (CARTARSL) will be held on 
+Computer-Assisted Text Analysis for Resource-Scarce Literatures (CARTARSL) will be held on 
 April 24-25, 2019 at the University of Miami, FL 
 
 ![alt text](/CATARSL/img/textViz.png "Logo Title Text 1")
