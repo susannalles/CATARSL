@@ -25,16 +25,16 @@ Location: [Richter Library 3rd Floor Conference Room](https://www.google.com/map
 
 10am - 1pm Talks I
  
-* [Mike Kestemont](http://www.mike-kestemont.org/) (University of Antwerp)
-* [Gimena del Río Riande](http://www.iibicrit-conicet.gov.ar/wordpress/quienes-somos/miembros/dra-maria-gimena-del-rio/) (IIBICRIT-CONICET, Argentina), Computer-assisted Semantic Annotation not just for DH scholars
+* [Mike Kestemont](http://www.mike-kestemont.org/) (University of Antwerp), "The case of fanfiction in Digital Humanities research and pedagogy -- Because the story's not over until they say it is."
+* [Gimena del Río Riande](http://www.iibicrit-conicet.gov.ar/wordpress/quienes-somos/miembros/dra-maria-gimena-del-rio/) (IIBICRIT-CONICET, Argentina), "Computer-assisted Semantic Annotation not just for DH scholars"
 * [Greta Franzini](http://www.gretafranzini.com/) (Università Cattolica del Sacro Cuore)
 
 Lunch 
 
 2pm - 5pm Talks II
 * [Francisco Gago Jover](https://www.holycross.edu/academics/programs/spanish/faculty/francisco-gago-jover) (College of the Holly Cross)
-* James Gawley (University at Buffalo, SUNY), Unsupervised Lemmatization Model for Underserved Languages
-* [Scott Kleinman](https://www.csun.edu/humanities/english/scott-kleinman) (California State University, Northridge), Some failed attempts at lemmatising Middle English: what went wrong and where do we go from here?
+* James Gawley (University at Buffalo, SUNY), "Unsupervised Lemmatization Model for Underserved Languages"
+* [Scott Kleinman](https://www.csun.edu/humanities/english/scott-kleinman) (California State University, Northridge), "Some failed attempts at lemmatising Middle English: what went wrong and where do we go from here?"
 
 5 - 5:30pm Closing Discussion 
 
