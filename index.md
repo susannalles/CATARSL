@@ -11,7 +11,7 @@ Computer-Assisted Text Analysis for Resource-Scarce Literatures (CARTARSL) will 
 April 24-25, 2019 at the University of Miami, FL 
 
 ![alt text](/CATARSL/img/textViz.png "Logo Title Text 1")
-This two-day symposium aims to bring together scholars and researchers working with computational approaches to texts. The event targets a broad audience interested in the application of digital text analysis technology (text mining, topic modeling, authorship detection, tasks performed through Natural Language Processing) for Resource-Scare Literatures and from an historical perspective. Come join us! 
+This two-day symposium aims to bring together scholars and researchers working with computational approaches to texts. The event targets a broad audience interested in the application of digital text analysis technology (text mining, topic modeling, authorship detection, tasks performed through Natural Language Processing) for Resource-Scarce Literatures and from an historical perspective. Come join us! 
 
 ## Important dates: 
 - January 20, 2019: Deadline for the submission of abstracts 
