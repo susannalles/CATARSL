@@ -763,3 +763,21 @@ pre {
 
 .logos {
   text-align: center; }
+
+.author_title {
+  font-weight: bold;
+  margin: 5px; }
+
+.bio_abstract {
+  /* width: 80%;*/
+  line-height: 20px;
+  text-align: justify;
+  margin: 15px; }
+
+.bio {
+  margin: 5px;
+  margin-bottom: 20px; }
+
+.img_bio {
+  float: left;
+  margin-right: 10px; }

@@ -662,9 +662,36 @@ pre {
     .il    { color: #099 } // Literal.Number.Integer.Long
 }
 
-.logos img{ 
+.logos img{
 margin: 25px 15px;
 display: inline-block;
-} 
+}
 
 .logos{text-align:center;}
+
+
+.author_title{
+  font-weight: bold;
+margin: 5px;
+}
+
+.bio_abstract{
+ /* width: 80%;*/
+ line-height: 20px;
+ text-align:justify;
+ margin: 15px;
+
+
+}
+.bio{
+  margin: 5px;
+  margin-bottom:20px;
+}
+
+.abstract{}
+
+.img_bio{
+  float: left;
+  margin-right: 10px;
+
+}
