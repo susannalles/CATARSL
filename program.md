@@ -15,7 +15,7 @@ Location: [**Newman Alumni Center Executive Boardroom**](https://www.google.com/
 9:30am - 12:30pm - Workshop 1
 
 <div class="talks">
-            <div class="author_title"><a href="http://www.mike-kestemont.org/">Mike Kestemont</a> & <a href="https://www.uantwerpen.be/en/projects/mind-bending-grammars/team/enrique-manjavacas/">Enrique Manjavacas</a>, Workshop 1</div>
+            <div class="author_title"><a href="http://www.mike-kestemont.org/">Mike Kestemont</a> & <a href="https://emanjavacas.github.io/">Enrique Manjavacas</a>, Workshop 1</div>
             <div class="bio_abstract">
                 <div class="bio">
                    <img alt="" src="http://susannalles.com/CATARSL/img/logo3.png"/> 
@@ -56,7 +56,15 @@ We propose a 2-3 hour hands-on workshop, in which we will provide an overview of
 
 10am - 1pm Talks I
 
-* [Mike Kestemont](http://www.mike-kestemont.org/) (University of Antwerp), "The case of fanfiction in Digital Humanities research and pedagogy -- Because the story's not over until they say it is."
+<div class="talks">
+<div class="author_title"><a href="http://www.mike-kestemont.org/">Mike Kestemont</a> (University of Antwero), <i>The case of fanfiction in Digital Humanities research and pedagogy -- Because the story's not over until they say it is.</i></div>
+<div class="bio_abstract">
+<div class="bio"><img alt="" src="http://susannalles.com/CATARSL/img/Kestemont.jpg" class="img_bio"/><b>Bio:</b>
+ Mike Kestemont, PhD, is a research professor in the department of Literature at the University of Antwerp (Belgium). He specializes in computational text analysis for the Digital Humanities. Whereas his work has a strong focus on historic literature, his precious research has covered a wide range of topics in literary history, including classical, medieval, early modern and modernist texts. Together with Folgert Karsdorp and Allen Riddell he is preparing a textbook on data science for the Humanities. Mike recently took up an interest in neural networks and currently explores various applications of this exciting technology in the Arts and Humanities. Together with his Polish colleagues Maciej Eder and Jan Rybicki he is involved in the Computational Stylistics Group. Mike lives in Brussels (<a href="www.mike-kestemont.org">www.mike-kestemont.org</a>), tweets in English (<a href="https://twitter.com/mike_kestemont?lang=en">@Mike_Kestemont</a>) and codes in Python (<a href="https://github.com/mikekestemont">https://github.com/mikekestemont</a>).</div>
+<div class="abstract"><b>Abstract:</b> <i>Forthcoming</i></div>
+</div>
+</div>
+
 * [Gimena del Río Riande](http://www.iibicrit-conicet.gov.ar/wordpress/quienes-somos/miembros/dra-maria-gimena-del-rio/) (IIBICRIT-CONICET, Argentina), "Computer-assisted Semantic Annotation not just for DH scholars"
 
 <div class="talks">
