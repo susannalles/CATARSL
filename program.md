@@ -15,15 +15,16 @@ Location: [**Newman Alumni Center Executive Boardroom**](https://www.google.com/
 9:30am - 12:30pm - Workshop 1
 
 <div class="talks">
-            <div class="author_title"><a href="http://www.mike-kestemont.org/">Mike Kestemont</a> & <a href="https://emanjavacas.github.io/">Enrique Manjavacas</a>, Workshop 1</div>
-            <div class="bio_abstract">
-                <div class="bio">
-                   <img alt="" src="http://susannalles.com/CATARSL/img/logo3.png"/> 
-                </div>
-                <div class="abstract">
-                   <br/>
-                </div>
-            </div>
+   <div class="author_title">Modelling Hogwarts. A speed introduction to digital text analysis. Taught by <a href="http://www.mike-kestemont.org/">Mike Kestemont</a> & <a href="https://emanjavacas.github.io/">Enrique Manjavacas</a>, Workshop 1</div>
+   <div class="bio_abstract">
+      <div class="bio">
+       <img alt="" src="../img/textViz2.png" class="img_bio"/> 
+      </div>
+   <div class="abstract">
+In this three-hour workshop, we offer a speed introduction to a number of established approaches in digital literary studies. The case studies are taken from the universe of Harry Potter but the methodologies are generic enough to be applicable across different domains of the Humanities. We will focus on the following two applications: <b>1. Network analysis:</b> Fanfiction is intriguing because of the new combinations of characters and themes it introduces. We will use network analysis (Gephi) to model these remarkable (and often radical) shifts <span style="color:red;">in attention with respect the</span> original canons. This macro-level approach can be considered a modern form of reader response analysis. <b>2. Stylometry</b>: Authorship attribution is a popular research topic in stylometry, the quantitative study of writing style. We will use "Stylometry with R" to replicate a famous case study: <span style="color:red;">in</span> J.K. Rowling secretly published a novel under the male pseudonym Robert Galbraith, but Patrick Juola unmasked the author using stylometry. We will analyze how genre and literary influence are key factors in modelling an author's writing style.<br/>
+The workshop will be highly hands-on and people are expected to bring their laptops on which they can install new software. Installation instructions for the software will be sent out to the participants in the weeks before the event. All data will be distributed on-site.
+     </div>
+    </div>
 </div>
 <div></div>
         
@@ -34,7 +35,7 @@ Location: [Richter Library 3rd Floor Conference Room](https://www.google.com/map
 2pm - 5pm - Workshop 2
 
 <div class="talks">
-            <div class="author_title">Lexos for Analysing Historical Literatures in the Classroom. <a href="">Scott Kleinman</a> (California State University, Northridge) & Mark LeBlanc (Wheaton College, MA)</div>
+            <div class="author_title">Lexos for Analysing Historical Literatures in the Classroom. Taught by <a href="">Scott Kleinman</a> (California State University, Northridge) & Mark LeBlanc (Wheaton College, MA)</div>
             <div class="bio_abstract">
                 <div class="bio">
                     <img alt="" src="http://susannalles.com/CATARSL/img/Lexos.png"
@@ -61,11 +62,26 @@ We propose a 2-3 hour hands-on workshop, in which we will provide an overview of
 <div class="bio_abstract">
 <div class="bio"><img alt="" src="http://susannalles.com/CATARSL/img/Kestemont.jpg" class="img_bio"/><b>Bio:</b>
  Mike Kestemont, PhD, is a research professor in the department of Literature at the University of Antwerp (Belgium). He specializes in computational text analysis for the Digital Humanities. Whereas his work has a strong focus on historic literature, his precious research has covered a wide range of topics in literary history, including classical, medieval, early modern and modernist texts. Together with Folgert Karsdorp and Allen Riddell he is preparing a textbook on data science for the Humanities. Mike recently took up an interest in neural networks and currently explores various applications of this exciting technology in the Arts and Humanities. Together with his Polish colleagues Maciej Eder and Jan Rybicki he is involved in the Computational Stylistics Group. Mike lives in Brussels (<a href="www.mike-kestemont.org">www.mike-kestemont.org</a>), tweets in English (<a href="https://twitter.com/mike_kestemont?lang=en">@Mike_Kestemont</a>) and codes in Python (<a href="https://github.com/mikekestemont">https://github.com/mikekestemont</a>).</div>
-<div class="abstract"><b>Abstract:</b> <i>Forthcoming</i></div>
+<div class="abstract"><b>Abstract:</b> Digital approaches to Humanities scholarship have become increasingly institutionalized, if not mainstream, in recent years. When looking back at some of the earlier essays in the field, however, one cannot help but notice a few promises that the digital humanities have so far failed to live up to. The naive idea that distant reading would lure scholars away from an already over-studied canon, for instance, has hardly materialized. The same goes for the slightly neo-positivistic claims that computers would make the individual scholar's work somehow "easier", data more "accessible", and scholarship more "objective". Another cause for worry is the unexpected surge of interest in historic literature -- that is free of rights -- causing a somewhat remarkable underrepresentation of contemporary criticism in DH.
+
+In this talk, I would like to reflect on these issues, while drawing examples from the emerging domain of fanfiction studies, which is characterized by tensions that invite considerable meta-reflection on the scholar's part. The abundance of data from this domain, for example, stands in a stark contrast with the concerns about intellectual property. Likewise, an interesting tension arises between the hotly debated literary quality of fanfics and our ability to perform reader response analyses on an unprecedented scale. Finally, the challenging relationship between canon and fanon can be likened to the equally challenging interdependence between digital and non-digital literary studies.</div>
 </div>
 </div>
 
-* [Gimena del Río Riande](http://www.iibicrit-conicet.gov.ar/wordpress/quienes-somos/miembros/dra-maria-gimena-del-rio/) (IIBICRIT-CONICET, Argentina), "Computer-assisted Semantic Annotation not just for DH scholars"
+
+<div class="talks">
+            <div class="author_title"><a
+                href="http://www.iibicrit-conicet.gov.ar/wordpress/quienes-somos/miembros/dra-maria-gimena-del-rio/">Gimena del Río Riande</a> (IIBICRIT-CONICET, Argentina), <i>Computer-assisted Semantic Annotation not just for DH scholars</i></div>
+            <div class="bio_abstract">
+                <div class="bio">
+                    <img alt="Gimena del Rio" src="../img/DelRio.jpg"
+                        class="img_bio" />
+                    <b>Bio:</b> Gimena del Rio Riande is Associate Researcher at the Instituto de Investigaciones Bibliográficas y Crítica Textual of the National Scientific and Technical Research Council (CONICET. Buenos Aires, Argentina). Her main academic interests deal with Digital Scholarly Editions and DH methodologies and tools as open and situated practices. She is, among others, the director of the Laboratorio de Humanidades Digitales at CAICYT (HD CAICYT LAB, CONICET), co-director of the first Digital Humanities journal in Spanish (Revista de Humanidades Digitales - RHD), president at Asociación Argentina de Humanidades Digitales (AAHD), PCC member of the Pelagios Commons Initiative, and co-director of the Digital Humanities Master at the Laboratorio de Innovación en Humanidades Digitales (LINHD-UNED, Spain).</div>
+                <div class="abstract">
+                    <b>Abstract:</b> The availability of born digital data as well as digitised collections is changing the way we study and understand the humanities. This amount of information has even greater potential for research when semantic links can be established and relationships between entities highlighted. The work of Pelagios Commons has shown that connecting historical data according to their common reference to places (expressed via URIs stored in gazetteers) is a particularly powerful approach: information about material culture –data, texts and maps– can be connected and cross referenced through geodata. Producing semantic annotations usually requires a certain amount of knowledge of digital technologies such as RDF, ontologies, NER or text encoding. These techniques can sometimes act as a barrier for users that are not already familiar with Semantic Web theory. Recogito aims to facilitate the creation and publication of Linked Open Data by dramatically reducing the need to work with formal languages directly, while at the same time allowing the user to export the annotations produced as valid RDF, XML and GeoJSON formats. The Recogito annotation tool currently has greatest support for ancient and modern sources through automatic NER in different languages, giving account of the Pelagios. First developed in 2014, Recogito has made users an active agent in shaping its functionality and interface, allignd with the community-oriented philosophy behind Pelagios Commons. </div>
+            </div>
+        </div>
+        
 
 <div class="talks">
             <div class="author_title"><a href="http://www.gretafranzini.com/">Greta Franzini</a> & Marco Passarotti (Università Cattolica del Sacro Cuore), <i>LiLa (Linking Latin): Piecing together a seemingly under-resourced language</i>)</div>
@@ -119,17 +135,48 @@ This paper presents a technique for inferring a lemmatization model for an under
         </div>
 
 <div class="talks">
-            <div class="author_title"><a href="https://www.csun.edu/humanities/english/scott-kleinman">Scott Kleinman</a>, <i>Some failed attempts at lemmatising Middle English: what went wrong and where do we go from here?</i></div>
-            <div class="bio_abstract">
+<div class="author_title"><a href="https://www.csun.edu/humanities/english/scott-kleinman">Scott Kleinman</a>, <i>Some failed attempts at lemmatising Middle English: what went wrong and where do we go from here?</i></div>
+<div class="bio_abstract">
+<div class="bio">
+  <img alt="Kleinman" src="http://susannalles.com/CATARSL/img/Kleinman.jpg" class="img_bio"/>
+<b>Bio:</b> Scott Kleinman works on medieval language and literature from the Anglo-Saxon period to the fourteenth century with a special emphasis on the regional and cultural diversity of medieval England. in historiographical and romance literature. His publications include studies of legal discourse in Laȝamon’s Brut, the relationship between romance and historiography in Havelok the Dane, the dialectal distribution of the Old English word for “iron”, service cultures in The Lord of the Rings, and topic modelling of Classical Chinese literature. His Digital Humanities work includes the NEH-Funded <a href="https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/">Lexomics Project</a>, which studies literature using digital methods and produces the computational text analysis tool <a href="https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/">Lexos</a>. He is also co-Director of the Archive of Early Middle English project, which produces digital editions of English manuscripts written between the eleventh and fourteenth centuries and of the <a href="https://we1s.ucsb.edu/">4Humanities WhatEvery1Says Project</a>, which text mines public discourse in order to produce tools for Humanities advocacy. In the past, he worked as a designer/developer for the online search tool <a href="http://serendip-o-matic.com/">Serendip-o-matic</a> as part of the <a href="http://oneweekonetool.org/">One Week | One Tool project</a>.
+</div>
+<div class="abstract">
+   <b>Abstract:</b> Middle English may present the trickiest of challenges for automated lemmatisation. With a relatively small corpus of texts, and an even smaller corpus of edited ones, Middle English is not well-suited to machine-learning approaches that rely on scale. Because the corpus is spread amongst dialectal and chronological sub-groups (sometimes single texts) with vastly different grammatical and orthographic features, each group effectively forms its own, even smaller corpus. What is effectively needed is a way for the machine to learn across these sub-corpora. We have a common reference point in the Middle English Dictionary with a pre-defined set of headwords available for use as lemmas. Using the MED has the advantage of potentially providing users with access to the wider semantic and literary contexts of terms in a specific text. In this paper, I will cover some methods I have used to try to match the vocabulary of Middle English texts to MED headwords. These methods include both unsupervised methods of grouping related word types using edit distance metrics, topic models, and word embedding to supervised methods with student research assistants. I will examine some of the problems associated with using the MED, as well as existing corpora containing linguistic markup. Finally, I will examine the promising approach of reinforced machine learning and suggest some ways in which we might pursue this approach through multi-institution collaborations in the future.
+</div>
+</div>
+</div>
+
+<div class="talks">
+    <div class="author_title"><a href="https://emanjavacas.github.io/">Enrique
+                    Manjavacas</a>, <i>Lemmatization of Historical Languages with Neural
+                    Networks</i></div>
+   <div class="bio_abstract">
                 <div class="bio">
-                    <img alt="Kleinman" src="http://susannalles.com/CATARSL/img/Kleinman.jpg"
+                    <img alt="Manjavacas" src="../img/Manjavacas.jpg"
                         class="img_bio" />
-                    <b>Bio:</b> Scott Kleinman works on medieval language and literature from the Anglo-Saxon period to the fourteenth century with a special emphasis on the regional and cultural diversity of medieval England. in historiographical and romance literature. His publications include studies of legal discourse in Laȝamon’s Brut, the relationship between romance and historiography in Havelok the Dane, the dialectal distribution of the Old English word for “iron”, service cultures in The Lord of the Rings, and topic modelling of Classical Chinese literature. His Digital Humanities work includes the NEH-Funded <a href="https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/">Lexomics Project</a>, which studies literature using digital methods and produces the computational text analysis tool <a href="https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/">Lexos</a>. He is also co-Director of the Archive of Early Middle English project, which produces digital editions of English manuscripts written between the eleventh and fourteenth centuries and of the <a href="https://we1s.ucsb.edu/">4Humanities WhatEvery1Says Project</a>, which text mines public discourse in order to produce tools for Humanities advocacy. In the past, he worked as a designer/developer for the online search tool <a href="http://serendip-o-matic.com/">Serendip-o-matic</a> as part of the <a href="http://oneweekonetool.org/">One Week | One Tool project</a>.
-                </div>
-                <div class="abstract">
-                    <b>Abstract:</b> Middle English may present the trickiest of challenges for automated lemmatisation. With a relatively small corpus of texts, and an even smaller corpus of edited ones, Middle English is not well-suited to machine-learning approaches that rely on scale. Because the corpus is spread amongst dialectal and chronological sub-groups (sometimes single texts) with vastly different grammatical and orthographic features, each group effectively forms its own, even smaller corpus. What is effectively needed is a way for the machine to learn across these sub-corpora. We have a common reference point in the Middle English Dictionary with a pre-defined set of headwords available for use as lemmas. Using the MED has the advantage of potentially providing users with access to the wider semantic and literary contexts of terms in a specific text. In this paper, I will cover some methods I have used to try to match the vocabulary of Middle English texts to MED headwords. These methods include both unsupervised methods of grouping related word types using edit distance metrics, topic models, and word embedding to supervised methods with student research assistants. I will examine some of the problems associated with using the MED, as well as existing corpora containing linguistic markup. Finally, I will examine the promising approach of reinforced machine learning and suggest some ways in which we might pursue this approach through multi-institution collaborations in the future.
-                </div>
-            </div>
-        </div>
+                    <b>Bio:</b> I am currently a PhD student at the University of Antwerp working on
+                    a project in Computational Linguistics. Formally, I am associated with CLiPS and
+                    the Antwerp Centre for Digital Humanities and Literary Criticism. I work on the
+                    fields of Natural Language Processing and Information Retrieval, focusing on
+                    tasks such as morphosyntactic tagging, Stylometry or Text Reuse Detection with
+                    applications to historical languages, examining the suitability of Recurrent
+                    Neural Network models for such tasks. Besides, I am also interested in the field
+                    of Language Generation, where I have focused on text generation with literary
+                    and artistic purposes. </div>
+<div class="abstract">
+                    <b>Abstract:</b> In the present talk, we will discuss recent approaches to
+                    lemmatization based on Neural Network architectures that cast lemmatization as a
+                    string transduction task. We will illustrate the approach through a comparison
+                    to other data-driven paradigms that make use of contextual information in the
+                    form of morphological tags to help solving token-lemma ambiguities. In
+                    particular, we will consider a number of Historical Languages and show the
+                    effect of the charateristic high degree of orthographic variation on the
+                    different approaches to lemmatization. Furthermore, we will discuss and analyze
+                    how Neural Network approaches are better suited to counteract such effects.
+                    Finally, we will discuss further extensions to the Neural Network approach that
+                    lead to further improvements in model fit.</div>
+  </div>
+</div>
 
 5 - 5:30pm Closing Discussion
