@@ -103,7 +103,7 @@ The talk will detail the current state of LiLa and shed light on common misconce
 
 Lunch
 
-2pm - 5pm Talks II
+2pm - 6pm Talks II
 
 <div class="talks">
 <div class="author_title"><a href="https://www.holycross.edu/academics/programs/spanish/faculty/francisco-gago-jover">Francisco Gago Jover</a>, <i>The Old Spanish Textual Archive, or what to do when you find yourself with 30 million words</i></div>
@@ -177,4 +177,4 @@ This paper presents a technique for inferring a lemmatization model for an under
   </div>
 </div>
 
-5 - 5:30pm Closing Discussion
+6 - 6:30pm Closing Discussion
