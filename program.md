@@ -4,8 +4,6 @@ title: Program
 permalink: /program/
 ---
 
-(Provisional Program)
-
 ## Wednesday, April 24th 2019
 
 Location: [**Newman Alumni Center Executive Boardroom**](https://www.google.com/maps/place/Newman+Alumni+Center,+6200+San+Amaro+Dr,+Coral+Gables,+FL+33146/@25.7114757,-80.2858883,17z/data=!3m1!4b1!4m5!3m4!1s0x88d9c7f942144105:0x517a3c76081d14d!8m2!3d25.7114757!4d-80.2836996)
