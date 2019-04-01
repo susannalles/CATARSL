@@ -191,4 +191,3 @@ This paper presents a technique for inferring a lemmatization model for an under
   </div>
 </div>
 
-6 - 6:30pm Closing Discussion
