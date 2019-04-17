@@ -53,7 +53,7 @@ We propose a 2-3 hour hands-on workshop, in which we will provide an overview of
 
 9-9:30 am Coffe and Breakfast
 
-9:30 am - 1pm Talks I
+9:30 am - 11 am Talks I
 
 <div class="talks">
 <div class="author_title"><a href="http://www.mike-kestemont.org/">Mike Kestemont</a> (University of Antwerp), <i>The case of fanfiction in Digital Humanities research and pedagogy -- Because the story's not over until they say it is.</i></div>
@@ -80,6 +80,7 @@ In this talk, I would like to reflect on these issues, while drawing examples fr
             </div>
         </div>
         
+11:30 am - 1 pm Talks II
 
 <div class="talks">
             <div class="author_title"><a href="http://www.gretafranzini.com/">Greta Franzini</a> & Marco Passarotti (Università Cattolica del Sacro Cuore), <i>LiLa (Linking Latin): Piecing together a seemingly under-resourced language</i>)</div>
@@ -117,7 +118,7 @@ The talk will detail the current state of LiLa and shed light on common misconce
 
 Lunch
 
-2pm - 6pm Talks II
+2pm - 3:30pm Talks III
 
 <div class="talks">
 <div class="author_title"><a href="https://www.holycross.edu/academics/programs/spanish/faculty/francisco-gago-jover">Francisco Gago Jover</a> (College of the Holly Cross), <i>The Old Spanish Textual Archive, or what to do when you find yourself with 30 million words</i></div>
@@ -145,6 +146,8 @@ This paper presents a technique for inferring a lemmatization model for an under
                 </div>
             </div>
         </div>
+
+4 pm - 5:30 pm Talks IV
 
 <div class="talks">
 <div class="author_title"><a href="https://www.csun.edu/humanities/english/scott-kleinman">Scott Kleinman</a> (California State University, Northridge), <i>Some failed attempts at lemmatising Middle English: what went wrong and where do we go from here?</i></div>
@@ -191,3 +194,4 @@ This paper presents a technique for inferring a lemmatization model for an under
   </div>
 </div>
 
+5:30 pm - 6pm Closing and Discussion 
