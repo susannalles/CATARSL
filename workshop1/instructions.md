@@ -27,17 +27,17 @@ For next week's workshop, please bring your own laptop and make sure that it is 
 
 Download and install the Anaconda distribution of Python, available at <https://www.anaconda.com/distribution/#download-section>, and select the version that fits your machine. Additionally, make sure to select Python 3.7. (Whatever you do, do NOT select Python 2.7). As you run through the installation wizard, you can always click "Yes", "Next", etc. but for Windows users: please make sure that in the installation wizard, under "Advanced options" at the end, you select the option that adds Anaconda to your PATH environment variable. Screenshot in the attachment. This option is not checked by default.
 
-![Anaconda](../../img/anaconda.png)
+![Anaconda](../img/anaconda.png)
 
 2) **R**
 
 - (Mac OS only: install or update your XQuartz: <https://www.xquartz.org/>)
-- Install R: <https://www.r-project.org/>
+- Install R: <https://www.r-project.org/> (You can follow any link to download the software, such as <https://cloud.r-project.org/> and choose your OS, choose the "Latest release", and follow instructions for Installation. 
 - Install a decent cross-platform text editor, such as Sublime (<https://www.sublimetext.com/>)
 
 3) **Gephi**
 
-- First install Java (or more correctly: Java SE Runtime Environment 8). Pick the right version for your machine from: <https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html>.
+- First install Java (or more correctly: Java SE Runtime Environment 8). Pick the right version for your machine from: <https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html> (maybe you will have to register to the Oracle page).
 - Only then, install Gephi: <https://gephi.org/>
 
 Feel free to [contact us](mailto:Enrique.Manjavacas@uantwerpen.be,mike.kestemont@uantwerpen.be,suanna_alles@miami.edu) should you run into any issues. We are very much looking forward to working with you.
