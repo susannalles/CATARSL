@@ -51,6 +51,8 @@ We propose a 2-3 hour hands-on workshop, in which we will provide an overview of
 
 ## Thursday, April 25th 2019
 
+Location: [**Newman Alumni Center Executive Boardroom**](https://www.google.com/maps/place/Newman+Alumni+Center,+6200+San+Amaro+Dr,+Coral+Gables,+FL+33146/@25.7114757,-80.2858883,17z/data=!3m1!4b1!4m5!3m4!1s0x88d9c7f942144105:0x517a3c76081d14d!8m2!3d25.7114757!4d-80.2836996)
+
 9-9:30 am Coffe and Breakfast
 
 9:30 am - 11 am Talks I
@@ -121,15 +123,6 @@ Lunch
 2pm - 3:30pm Talks III
 
 <div class="talks">
-<div class="author_title"><a href="https://www.holycross.edu/academics/programs/spanish/faculty/francisco-gago-jover">Francisco Gago Jover</a> (College of the Holly Cross), <i>The Old Spanish Textual Archive, or what to do when you find yourself with 30 million words</i></div>
-<div class="bio_abstract">
-<div class="bio"><img alt="" src="http://susannalles.com/CATARSL/img/Gago-Jover.jpg" class="img_bio"/><b>Bio:</b>
- Francisco Gago-Jover is Professor of Spanish at the College of the Holy Cross. He received his Ph.D. in Hispano Romance Linguistics and Philology at the University of Wisconsin-Madison in 1997 with a dissertation on Medieval Spanish military lexicography. He is the author of two dictionaries, an edition of the Spanish version of the Art of Dying Well, numerous articles on lexicography, and several paleographical transcriptions of medieval Spanish texts. He has taught doctorate courses in different universities in the United States (University of Massachusetts-Amherst and Boston University) and Spain (Universidad de León, Universidad de Valladolid, and Universitat de les Illes Balears). He is the Director of Digital Projects at the Hispanic Seminary of Medieval Studies and is in charge of the Digital Library of the Old Spanish Texts and the Old Spanish Textual Archive.</div>
-<div class="abstract"><b>Abstract:</b>The creation of digital collections of texts, or textual corpora, for research and preservation may be one of the seminal technological innovations in the digital humanities that still remains at the core of many text-oriented disciplines, including those belonging to medieval studies. When creating a textual corpus, digital humanists face many key choices that will determine their project’s success. These decisions include the selection of standards, format types, methods for text recollection, searchability, access, lemmatization, and interoperability, among others. In this talk I will discuss the development of the Old Spanish Textual Archive (OSTA), a morphologically tagged and lemmatized corpus of more than 25 million words, based on the more than 400 semi-paleographic transcriptions of medieval texts written in Castilian, Asturian, Leonese, Navarro-Aragonese and Aragonese prepared by the collaborators of the Hispanic Seminary of Medieval Studies (HSMS).</div>
-</div>
-</div>
-
-<div class="talks">
 <div class="author_title">James Gawley (University at Buffalo, SUNY), <i>Unsupervised Lemmatization Model for Underserved Languages</i></div>
 <div class="bio_abstract">
   <div class="bio">
@@ -147,8 +140,6 @@ This paper presents a technique for inferring a lemmatization model for an under
             </div>
         </div>
 
-4 pm - 5:30 pm Talks IV
-
 <div class="talks">
 <div class="author_title"><a href="https://www.csun.edu/humanities/english/scott-kleinman">Scott Kleinman</a> (California State University, Northridge), <i>Some failed attempts at lemmatising Middle English: what went wrong and where do we go from here?</i></div>
 <div class="bio_abstract">
@@ -159,6 +150,17 @@ This paper presents a technique for inferring a lemmatization model for an under
 <div class="abstract">
    <b>Abstract:</b> Middle English may present the trickiest of challenges for automated lemmatisation. With a relatively small corpus of texts, and an even smaller corpus of edited ones, Middle English is not well-suited to machine-learning approaches that rely on scale. Because the corpus is spread amongst dialectal and chronological sub-groups (sometimes single texts) with vastly different grammatical and orthographic features, each group effectively forms its own, even smaller corpus. What is effectively needed is a way for the machine to learn across these sub-corpora. We have a common reference point in the Middle English Dictionary with a pre-defined set of headwords available for use as lemmas. Using the MED has the advantage of potentially providing users with access to the wider semantic and literary contexts of terms in a specific text. In this paper, I will cover some methods I have used to try to match the vocabulary of Middle English texts to MED headwords. These methods include both unsupervised methods of grouping related word types using edit distance metrics, topic models, and word embedding to supervised methods with student research assistants. I will examine some of the problems associated with using the MED, as well as existing corpora containing linguistic markup. Finally, I will examine the promising approach of reinforced machine learning and suggest some ways in which we might pursue this approach through multi-institution collaborations in the future.
 </div>
+</div>
+</div>
+
+4 pm - 5:30 pm Talks IV
+
+<div class="talks">
+<div class="author_title"><a href="https://www.holycross.edu/academics/programs/spanish/faculty/francisco-gago-jover">Francisco Gago Jover</a> (College of the Holly Cross), <i>The Old Spanish Textual Archive, or what to do when you find yourself with 30 million words</i></div>
+<div class="bio_abstract">
+<div class="bio"><img alt="" src="http://susannalles.com/CATARSL/img/Gago-Jover.jpg" class="img_bio"/><b>Bio:</b>
+ Francisco Gago-Jover is Professor of Spanish at the College of the Holy Cross. He received his Ph.D. in Hispano Romance Linguistics and Philology at the University of Wisconsin-Madison in 1997 with a dissertation on Medieval Spanish military lexicography. He is the author of two dictionaries, an edition of the Spanish version of the Art of Dying Well, numerous articles on lexicography, and several paleographical transcriptions of medieval Spanish texts. He has taught doctorate courses in different universities in the United States (University of Massachusetts-Amherst and Boston University) and Spain (Universidad de León, Universidad de Valladolid, and Universitat de les Illes Balears). He is the Director of Digital Projects at the Hispanic Seminary of Medieval Studies and is in charge of the Digital Library of the Old Spanish Texts and the Old Spanish Textual Archive.</div>
+<div class="abstract"><b>Abstract:</b>The creation of digital collections of texts, or textual corpora, for research and preservation may be one of the seminal technological innovations in the digital humanities that still remains at the core of many text-oriented disciplines, including those belonging to medieval studies. When creating a textual corpus, digital humanists face many key choices that will determine their project’s success. These decisions include the selection of standards, format types, methods for text recollection, searchability, access, lemmatization, and interoperability, among others. In this talk I will discuss the development of the Old Spanish Textual Archive (OSTA), a morphologically tagged and lemmatized corpus of more than 25 million words, based on the more than 400 semi-paleographic transcriptions of medieval texts written in Castilian, Asturian, Leonese, Navarro-Aragonese and Aragonese prepared by the collaborators of the Hispanic Seminary of Medieval Studies (HSMS).</div>
 </div>
 </div>
 
