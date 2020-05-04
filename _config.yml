@@ -10,7 +10,7 @@ title: Computer-Assisted Text Analysis for Resource-Scarce Literatures
 email: susanna_alles@miami.edu
 description: A Symposium at UM
 baseurl: "/CATARSL" # the subpath of your site, e.g. /blog
-url: "http://susannalles.com" # the base hostname & protocol for your site
+url: "http://susannalles.github.io" # the base hostname & protocol for your site
 twitter_username: sallesto
 github_username:  susannalles
 paginate: 5
